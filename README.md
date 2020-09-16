@@ -36,5 +36,5 @@ Row | Calculation
 3 | Greatest % Decrease
 4 | Greatest Total Volume (K)
 
-#Notes
+# Notes
 Percent Change cannot be calculated for stocks that have and open stock price of 0 for the beginning of the year. The Percent Change for these stocks is denoted at Not a Number (NaN).
